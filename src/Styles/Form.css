@@ -1,0 +1,7 @@
+.Form {
+    height: 73vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
